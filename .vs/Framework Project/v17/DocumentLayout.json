@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\printbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\printbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\createbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\createbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\printbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\printbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\createbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\createbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\deshboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\deshboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\deshboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\deshboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VIDHI_ONEDRIVE_DESKTOP_ONLINE_BILLING_SYSTEM_ONLINE_BILLING_SYSTEM_ONLINE_BILLING_SYSTEM_APPDATA_MYDB.MDF/True/SqlTable/dbo.Product.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|c:\\users\\vidhi\\source\\repos\\framework project\\online_billing_system\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|C:\\Users\\Vidhi\\source\\repos\\Framework Project\\online_billing_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7907A0AE-D906-44C8-9E60-32802A4ED44F}|Online_Billing_System\\Online_Billing_System.csproj|solutionrelative:online_billing_system\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\CreateBill.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\CreateBill.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\CreateBill.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\CreateBill.aspx.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAAABUBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:05:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintBill.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\PrintBill.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\PrintBill.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\PrintBill.aspx",
+              "RelativeToolTip": "Online_Billing_System\\PrintBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T13:36:56.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\PrintBill.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\PrintBill.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\PrintBill.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\PrintBill.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:37:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewBills.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\ViewBills.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\ViewBills.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\ViewBills.aspx",
+              "RelativeToolTip": "Online_Billing_System\\ViewBills.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T13:26:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "products.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\products.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\products.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\products.aspx",
+              "RelativeToolTip": "Online_Billing_System\\products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T18:32:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBill.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\CreateBill.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\CreateBill.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\CreateBill.aspx",
+              "RelativeToolTip": "Online_Billing_System\\CreateBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T18:24:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\home.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\home.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\home.aspx",
+              "RelativeToolTip": "Online_Billing_System\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T13:34:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBills.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\ViewBills.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\ViewBills.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\ViewBills.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\ViewBills.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:57:33.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Web.config",
+              "RelativeDocumentMoniker": "Online_Billing_System\\Web.config",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Web.config",
+              "RelativeToolTip": "Online_Billing_System\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T19:21:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogOut.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\LogOut.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\LogOut.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\LogOut.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\LogOut.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:02:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Deshboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Deshboard.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\Deshboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Deshboard.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\Deshboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:00:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogOut.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\LogOut.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\LogOut.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\LogOut.aspx",
+              "RelativeToolTip": "Online_Billing_System\\LogOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T19:02:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deshboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Deshboard.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\Deshboard.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Deshboard.aspx",
+              "RelativeToolTip": "Online_Billing_System\\Deshboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T17:02:41.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Product [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_VIDHI_ONEDRIVE_DESKTOP_ONLINE_BILLING_SYSTEM_ONLINE_BILLING_SYSTEM_ONLINE_BILLING_SYSTEM_APPDATA_MYDB.MDF/True/SqlTable/dbo.Product.sql",
+              "ToolTip": "dbo.Product [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T18:49:04.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\products.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\products.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\products.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\products.aspx.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwIMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:33:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Login.aspx",
+              "RelativeDocumentMoniker": "Online_Billing_System\\Login.aspx",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Login.aspx",
+              "RelativeToolTip": "Online_Billing_System\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-10T16:02:01.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\home.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\home.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\home.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:52:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Online_Billing_System\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Vidhi\\source\\repos\\Framework Project\\Online_Billing_System\\Login.aspx.cs",
+              "RelativeToolTip": "Online_Billing_System\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:01:55.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
